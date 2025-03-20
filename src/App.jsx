@@ -6,6 +6,7 @@ import Body from './components/Body/Body'
 import LandingPage from './pages/Landing/LandingPage'
 import ProductListing from './pages/ProductListing/ProductListing'
 import SingleProductPage from './pages/SingleProduct/SingleProductPage'
+import ScrollToTop from './components/Body/ScrollToTop'
 
 
 
@@ -15,6 +16,7 @@ function App() {
   return (
     <>
       <BrowserRouter basename='/'>
+      <ScrollToTop/>
         <Routes>
           <Route path='/' element={<Body/>}>
             <Route path='/' element={<LandingPage/>}/>
