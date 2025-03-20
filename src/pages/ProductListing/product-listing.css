@@ -1,69 +1,4 @@
 
-/* .product-listing {
-    padding: 1.25rem;
-    max-width: 1200px;
-    margin: 0 auto;
-
-  }
-
-.product-listing .product-heading {
-  text-align: center;
-  color: #297f1d;
-  font-size: 3rem;
-  margin-bottom: 1rem;
-}
-  
-
-  .category-grid {
-    display: grid;
-    grid-template-rows: repeat(4, auto); 
-    grid-auto-flow: column; 
-    gap: 0.74rem;
-    margin-bottom: 1.25rem;
-  }
-  .category-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    cursor: pointer;
-    padding: 1rem;
-    transition: background-color 0.3s ease;
-  }
-  
-  .category-item.active {
-    background-color: #348627;
-    border-radius: 2rem;
-    color: #fff;
-  }
-  
-  .category-image {
-    width: 8rem;
-    height: 8rem;
-    border-radius: 50%;
-    object-fit: cover;
-  }
-  
-  .category-image:hover {
-    border: .5rem solid #a0f7b0 ;
-    transform: translateY(-10px);
-  }
-  .category-name {
-    font-size: 0.875rem;
-    text-align: center;
-    margin-bottom: 0.5rem;
-  }
-  
-  .product-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 2.25rem;
-    padding: 1.25rem 0;
-  }
-
-  .link {
-    text-decoration: none; 
-    color: inherit; 
-  } */
 
 
 
@@ -85,13 +20,12 @@
 
 /* Horizontal Scrollable Category Bar */
 .category-grid {
-  display: flex;
-  overflow-x: auto; /* Enable horizontal scrolling */
+
+  display: grid;
+  grid-template-rows: repeat(4, auto); 
+  grid-auto-flow: column; 
   gap: 0.74rem;
   margin-bottom: 1.25rem;
-  padding-bottom: 0.5rem;
-  scrollbar-width: thin;
-  scrollbar-color: #ccc transparent;
 }
 
 .category-grid::-webkit-scrollbar {
