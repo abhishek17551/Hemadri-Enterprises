@@ -1,16 +1,16 @@
-.singleProduct {
+/* .singleProduct {
     text-align: center;
     margin: 20px;
   }
   
   .carousel {
     display: flex;
-    align-items: center; /* Center the items vertically */
-    justify-content: center; /* Center the items horizontally */
+    align-items: center; 
+    justify-content: center; 
   }
   
   .product-image {
-    width: 30rem; /* Adjust as needed */
+    width: 30rem; 
     height: auto;
     border: 1px solid #ccc;
     border-radius: 8px;
@@ -34,11 +34,11 @@
   }
   
   .leftArrow {
-    left: -90px; /* Adjust as needed */
+    left: -90px; 
   }
   
   .rightArrow {
-    right: -90px; /* Adjust as needed */
+    right: -90px;
   }
   
   .arrow:hover:not(:disabled) {
@@ -64,8 +64,7 @@
     color: #666666;
     margin: 0 0 8px;
   }
-  
-  /* Price section */
+
   .priceSection {
     display: flex;
     flex-direction: column;
@@ -91,10 +90,202 @@
     color: #28a745;
     font-weight: bold;
   }
-  
-  /* SKU code */
+
   .skuCode {
     font-size:3rem;
     color: #666666;
     margin: 0;
-  }
+  } */
+
+  .singleProduct {
+    text-align: center;
+    margin: 20px;
+}
+
+/* Carousel */
+.carousel {
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
+}
+
+/* Product Image */
+.product-image {
+    width: 30rem; /* Default size */
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 0 10px;
+}
+
+/* Navigation Arrows */
+.arrow {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    padding: 10px;
+    border-radius: 50%;
+    transition: background-color 0.3s;
+    margin: 0 5px;
+}
+
+.arrow:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+}
+
+.leftArrow {
+    left: -90px;
+}
+
+.rightArrow {
+    right: -90px;
+}
+
+.arrow:hover:not(:disabled) {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+/* Product Details */
+.productDetails {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.productTitle {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 0 0 8px;
+    color: #333333;
+}
+
+.productCategory {
+    font-size: 0.875rem;
+    color: #666666;
+    margin: 0 0 8px;
+}
+
+/* Price Section */
+.priceSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.sellingPrice {
+    font-size: 2.25rem;
+    font-weight: bold;
+    color: #007bff;
+}
+
+.mrp {
+    font-size: 2rem;
+    color: #999999;
+    text-decoration: line-through;
+}
+
+.discount {
+    font-size: 2rem;
+    color: #28a745;
+    font-weight: bold;
+}
+
+/* SKU Code */
+.skuCode {
+    font-size: 3rem;
+    color: #666666;
+    margin: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .product-image {
+        width: 25rem; /* Slightly reduce image size */
+    }
+
+    .productTitle {
+        font-size: 2.25rem;
+    }
+
+    .skuCode {
+        font-size: 2.5rem;
+    }
+
+    .leftArrow, .rightArrow {
+        left: -60px;
+        right: -60px;
+    }
+}
+
+@media (max-width: 768px) {
+    .product-image {
+        width: 20rem; /* Reduce image size */
+    }
+
+    .productTitle {
+        font-size: 2rem;
+    }
+
+    .priceSection {
+        gap: 0.75rem;
+    }
+
+    .sellingPrice, .mrp, .discount {
+        font-size: 1.75rem;
+    }
+
+    .skuCode {
+        font-size: 2rem;
+    }
+
+    .leftArrow, .rightArrow {
+        left: -40px;
+        right: -40px;
+    }
+}
+
+@media (max-width: 480px) {
+    .singleProduct {
+        margin: 10px;
+    }
+
+    .product-image {
+        width: 15rem; /* Further reduce image size */
+    }
+
+    .productTitle {
+        font-size: 1.5rem;
+    }
+
+    .productCategory {
+        font-size: 0.75rem;
+    }
+
+    .priceSection {
+        gap: 0.5rem;
+    }
+
+    .sellingPrice, .mrp, .discount {
+        font-size: 1.5rem;
+    }
+
+    .skuCode {
+        font-size: 1.75rem;
+    }
+
+    .leftArrow, .rightArrow {
+        left: -20px;
+        right: -20px;
+    }
+
+    .arrow {
+        font-size: 18px;
+        padding: 8px;
+    }
+}
