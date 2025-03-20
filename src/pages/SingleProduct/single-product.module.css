@@ -127,7 +127,10 @@
     padding: 10px;
     border-radius: 50%;
     transition: background-color 0.3s;
-    margin: 0 5px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
 }
 
 .arrow:disabled {
@@ -136,11 +139,11 @@
 }
 
 .leftArrow {
-    left: -90px;
+    left: 20px; /* Adjusted position for better visibility */
 }
 
 .rightArrow {
-    right: -90px;
+    right: 20px;
 }
 
 .arrow:hover:not(:disabled) {
@@ -217,9 +220,12 @@
         font-size: 2.5rem;
     }
 
-    .leftArrow, .rightArrow {
-        left: -60px;
-        right: -60px;
+    .leftArrow {
+        left: 10px;
+    }
+
+    .rightArrow {
+        right: 10px;
     }
 }
 
@@ -245,8 +251,8 @@
     }
 
     .leftArrow, .rightArrow {
-        left: -40px;
-        right: -40px;
+        left: 5px;
+        right: 5px;
     }
 }
 
@@ -279,9 +285,12 @@
         font-size: 1.75rem;
     }
 
-    .leftArrow, .rightArrow {
-        left: -20px;
-        right: -20px;
+    .leftArrow {
+        left: 10px; /* Ensure the left arrow is visible */
+    }
+
+    .rightArrow {
+        right: 10px;
     }
 
     .arrow {
