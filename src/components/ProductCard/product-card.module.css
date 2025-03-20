@@ -1,0 +1,113 @@
+.productCard {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  width: 100%; /* Full width on mobile */
+  max-width: 15rem; /* Maximum width for larger screens */
+  height: auto; /* Auto height for flexibility */
+  min-height: 25rem; /* Minimum height to ensure consistency */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+  background-color: #ffffff;
+  font-size: 1rem; /* Smaller base font size for mobile */
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto; /* Center the card */
+}
+
+.productCard:hover {
+  transform: translateY(-10px);
+}
+
+/* Product image container */
+.productImage {
+  height: 12rem; /* Smaller height for mobile */
+  overflow: hidden;
+}
+
+.productImage img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.productDetails {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  text-align: center;
+}
+
+.productTitle {
+  font-size: 1.5rem; /* Smaller font size for mobile */
+  font-weight: bold;
+  margin-bottom: 0.75rem;
+}
+
+.skuCode {
+  font-size: 0.8rem; /* Smaller font size for mobile */
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.priceSection {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  flex-wrap: wrap; /* Allow price elements to wrap on smaller screens */
+  justify-content: center; /* Center price elements */
+}
+
+.sellingPrice {
+  font-size: 1.1rem; /* Smaller font size for mobile */
+  font-weight: bold;
+  color: #2595bb;
+}
+
+.mrp {
+  font-size: 1rem; /* Smaller font size for mobile */
+  color: #999;
+  text-decoration: line-through;
+}
+
+.discount {
+  font-size: 1rem; /* Smaller font size for mobile */
+  color: #28a745;
+}
+
+/* Media Queries for Mobile Responsiveness */
+@media (max-width: 768px) {
+  .productCard {
+    max-width: 100%; /* Full width on smaller screens */
+    min-height: 22rem; /* Slightly smaller height for mobile */
+    font-size: 0.9rem; /* Smaller base font size */
+  }
+
+  .productImage {
+    height: 10rem; /* Smaller image height for mobile */
+  }
+
+  .productTitle {
+    font-size: 1rem; /* Smaller title font size */
+  }
+
+  .skuCode {
+    font-size: 0.75rem; /* Smaller SKU font size */
+  }
+
+  .sellingPrice {
+    font-size: 1rem; /* Smaller price font size */
+  }
+
+  .mrp {
+    font-size: 0.8rem; /* Smaller MRP font size */
+  }
+
+  .discount {
+    font-size: 0.8rem; /* Smaller discount font size */
+  }
+}
