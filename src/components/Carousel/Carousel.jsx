@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./carousel.css"; 
+import styles from "./carousel.module.css"; 
 
 const Carousel = () => {
   const images = [
@@ -22,13 +22,13 @@ const Carousel = () => {
   }, [images.length]);
 
   return (
-    <div className="carousel">
+    <div className={styles.carousel}>
       <div
-        className="carousel-inner"
+        className={styles.carouselInner}
         style={{ transform: `translateX(-${currentIndex * 100}%)` }}
       >
         {images.map((image, index) => (
-          <div key={index} className="carousel-item">
+          <div key={index} className={styles.carouselItem}>
             <img src={image} alt={`Slide ${index + 1}`} />
           </div>
         ))}

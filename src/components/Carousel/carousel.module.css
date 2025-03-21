@@ -8,19 +8,19 @@
   }
   
   /* Inner container for the slides */
-  .carousel-inner {
+  .carouselInner {
     display: flex;
     transition: transform 0.5s ease-in-out;
   }
   
   /* Individual slide */
-  .carousel-item {
+  .carouselItem {
     min-width: 100%;
     box-sizing: border-box;
   }
   
   /* Image styling */
-  .carousel-item img {
+  .carouselItem img {
     width: 100%;
     height: 45rem;
     display: block;

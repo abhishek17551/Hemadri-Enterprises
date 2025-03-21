@@ -1,154 +1,9 @@
-/* .singleProduct {
-    text-align: center;
-    margin: 20px;
-  }
-  
-  .carousel {
-    display: flex;
-    align-items: center; 
-    justify-content: center; 
-  }
-  
-  .product-image {
-    width: 30rem; 
-    height: auto;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    margin: 0 10px;
-  }
-  
-  .arrow {
-    background-color: rgba(255, 255, 255, 0.8);
-    border: none;
-    cursor: pointer;
-    font-size: 24px;
-    padding: 10px;
-    border-radius: 50%;
-    transition: background-color 0.3s;
-    margin: 0 5px; 
-  }
-  
-  .arrow:disabled {
-    cursor: not-allowed;
-    opacity: 0.5;
-  }
-  
-  .leftArrow {
-    left: -90px; 
-  }
-  
-  .rightArrow {
-    right: -90px;
-  }
-  
-  .arrow:hover:not(:disabled) {
-    background-color: rgba(255, 255, 255, 0.9);
-  }
-
-  .productDetails {
-    display: flex;
-    flex-direction: column;
-    padding: 16px;
-    align-items: center;
-    margin-top: 1rem;
-  }
-  .productTitle {
-    font-size: 2.5rem;
-    font-weight: bold;
-    margin: 0 0 8px;
-    color: #333333;
-  }
-  
-  .productCategory {
-    font-size: 0.875rem;
-    color: #666666;
-    margin: 0 0 8px;
-  }
-
-  .priceSection {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1rem;
-    margin: 1rem 0;
-  }
-  
-  .sellingPrice {
-    font-size: 2.25rem;
-    font-weight: bold;
-    color: #007bff;
-  }
-  
-  .mrp {
-    font-size: 2rem;
-    color: #999999;
-    text-decoration: line-through;
-  }
-  
-  .discount {
-    font-size: 2rem;
-    color: #28a745;
-    font-weight: bold;
-  }
-
-  .skuCode {
-    font-size:3rem;
-    color: #666666;
-    margin: 0;
-  } */
 
   .singleProduct {
     text-align: center;
     margin: 20px;
 }
 
-/* Carousel */
-.carousel {
-    display: flex;
-    align-items: center; /* Center items vertically */
-    justify-content: center; /* Center items horizontally */
-}
-
-/* Product Image */
-.product-image {
-    width: 30rem; /* Default size */
-    height: auto;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    margin: 0 10px;
-}
-
-/* Navigation Arrows */
-.arrow {
-    background-color: rgba(255, 255, 255, 0.8);
-    border: none;
-    cursor: pointer;
-    font-size: 24px;
-    padding: 10px;
-    border-radius: 50%;
-    transition: background-color 0.3s;
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    z-index: 10;
-}
-
-.arrow:disabled {
-    cursor: not-allowed;
-    opacity: 0.5;
-}
-
-.leftArrow {
-    left: 20px; /* Adjusted position for better visibility */
-}
-
-.rightArrow {
-    right: 20px;
-}
-
-.arrow:hover:not(:disabled) {
-    background-color: rgba(255, 255, 255, 0.9);
-}
 
 /* Product Details */
 .productDetails {
@@ -206,11 +61,37 @@
     margin: 0;
 }
 
+
+.carousel {
+    width: 50%;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    margin-top: 1.5rem;
+  }
+  
+  /* Inner container for the slides */
+  .carouselInner {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  /* Individual slide */
+  .carouselItem {
+    min-width: 100%;
+    box-sizing: border-box;
+  }
+  
+  /* Image styling */
+  .carouselItem img {
+    width: 100%;
+    height: 35rem;
+    display: block;
+  }
+
 /* Responsive Design */
 @media (max-width: 1024px) {
-    .product-image {
-        width: 25rem; /* Slightly reduce image size */
-    }
+
 
     .productTitle {
         font-size: 2.25rem;
@@ -219,20 +100,9 @@
     .skuCode {
         font-size: 2.5rem;
     }
-
-    .leftArrow {
-        left: 10px;
-    }
-
-    .rightArrow {
-        right: 10px;
-    }
 }
 
 @media (max-width: 768px) {
-    .product-image {
-        width: 20rem; /* Reduce image size */
-    }
 
     .productTitle {
         font-size: 2rem;
@@ -261,10 +131,6 @@
         margin: 10px;
     }
 
-    .product-image {
-        width: 15rem; /* Further reduce image size */
-    }
-
     .productTitle {
         font-size: 1.5rem;
     }
@@ -285,16 +151,4 @@
         font-size: 1.75rem;
     }
 
-    .leftArrow {
-        left: 10px; /* Ensure the left arrow is visible */
-    }
-
-    .rightArrow {
-        right: 10px;
-    }
-
-    .arrow {
-        font-size: 18px;
-        padding: 8px;
-    }
 }
