@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-section">
           <h2>Hemadri Enterprises</h2>
           <p>10, Sir MV Layout, Tindlu, Virupakshapura, Bengaluru, Karnataka 560097</p>
-          <p>Owned by: Yokesh Kumar</p>
+          <p>Owned by: Shwetha R</p>
           <p>GSTIN: 29FXSPS7093R1ZP</p>
         </div>
 
