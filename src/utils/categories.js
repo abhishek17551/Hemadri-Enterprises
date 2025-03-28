@@ -75,4 +75,8 @@ export const categories = [
     name: "Water Bottles",
     image: "https://res.cloudinary.com/dvtqp8tex/image/upload/v1742275295/Waterbottles_coh7io.jpg",
   },
+  {
+    name: "Triply Cookware",
+    image: "https://res.cloudinary.com/dd1ynbj52/image/upload/v1743156361/71XSdhp_KTL._SX679__vvpket.jpg",
+  },
 ];

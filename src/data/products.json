@@ -4094,5 +4094,716 @@
     "discount": 13,
     "category": "Steel Glasses",
     "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1741097472/OL20-1_tpuda6.png","https://res.cloudinary.com/dvtqp8tex/image/upload/v1741097475/OL20-2_copfty.png","https://res.cloudinary.com/dvtqp8tex/image/upload/v1741097478/OL20-3_mcwmpr.png"]
+  },
+  {
+    "skuCode": "HM2025444",
+    "title": "Chapathi Press",
+    "mrp": 1299,
+    "sellingPrice": 845,
+    "discount": 35,
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743068653/444-1_t0l7ar.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743068655/444-2_t5uwr0.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743068658/444-3_rouwmj.jpg"]
+  },
+  {
+    "skuCode": "HM2025445",
+    "title": "Coffee Maker 7 Size",
+    "mrp": 400,
+    "sellingPrice": 260,
+    "discount": 35,
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062155/445-1_ea6oxj.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062156/445-2_fjlnmi.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062156/445-3_pkf5af.jpg"]
+  },
+  {
+    "skuCode": "HM2025446",
+    "title": "Coffee Maker 8 Size",
+    "mrp": 460,
+    "sellingPrice": 299,
+    "discount": 35,
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062175/446-1_qyfgzf.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062176/446-2_in4klh.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062176/446-3_hzmrfe.jpg"]
+  },
+  {
+    "skuCode": "HM2025447",
+    "title": "Coffee Maker 10 Size",
+    "mrp": 540,
+    "sellingPrice": 351,
+    "discount": 35,
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062194/447-1_auz2g3.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062195/447-2_zhslat.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062195/447-3_iwh5jt.jpg"]
+  },
+  {
+    "skuCode": "HM2025448",
+    "title": "Gasket 2 & 3 Litre",
+    "mrp": 90,
+    "sellingPrice": 77,
+    "discount": 15,
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743080410/448-1_weimb9.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743080415/448-2_qmjxvk.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743080420/448-3_vybw4h.jpg"]
+  },
+  {
+    "skuCode": "HM2025449",
+    "title": "Gasket 5 Litre",
+    "mrp": 100,
+    "sellingPrice": 85,
+    "discount": 15,
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743080765/449-1_mevnyj.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743080769/449-2_qfk3um.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743080773/449-3_zmki1p.jpg"]
+  },
+  {
+    "skuCode": "HM2025450",
+    "title": "Gasket 7.5, 10, 12  Litre",
+    "mrp": 105,
+    "sellingPrice": 89,
+    "discount": 15,
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743080903/450-1_p5rrku.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743080912/450-3_rgsxue.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743080913/450-2_rfmtwc.jpg"]
+  },
+  {
+    "skuCode": "HM2025464",
+    "title": "Ceramic Coffee Glass 145ml",
+    "mrp": 395,
+    "sellingPrice": 335,
+    "discount": 15,
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743078788/464-1_hpcmiz.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743078792/464-2_smqrnk.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743078796/464-3_pqwr1s.jpg"]
+  },
+  {
+    "skuCode": "HM2025465",
+    "title": "Ceramic Coffee Glass 190ml",
+    "mrp": 430,
+    "sellingPrice": 365,
+    "discount": 15,
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743078937/465-1_tqe2t9.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743078941/465-2_yw2fp0.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743078945/465-3_lt6xwy.jpg"]
+  },
+  {
+    "skuCode": "HM2025466",
+    "title": "Ceramic Pickle Jar",
+    "mrp": 240,
+    "sellingPrice": 204,
+    "discount": 15,
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743079682/466-1_qtt5op.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743079685/466-2_yseonz.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743079689/466-3_ikam6q.jpg"]
+  },
+  {
+    "skuCode": "HM2025467",
+    "title": "Ceramic Butter Pot",
+    "mrp": 210,
+    "sellingPrice": 178,
+    "discount": 15,
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743079830/467-1_kcurhp.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743079835/467-2_nafyou.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743079839/467-3_ykyov6.jpg"]
+  },
+  {
+    "skuCode": "HM2025502",
+    "title": "Prestige Gasket 2 & 3 Ltr",
+    "mrp": 80,
+    "sellingPrice": 80,
+    "discount": "NA",
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743068411/502-1_ehmuwj.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743068414/502-2_vfzutf.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743068416/502-3_hqh9g1.jpg"]
+  },
+  {
+    "skuCode": "HM2025503",
+    "title": "Prestige Gasket 4.5,5 & 7 Ltr",
+    "mrp": 85,
+    "sellingPrice": 85,
+    "discount": "NA",
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743067817/503-1_fiayxc.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743067818/503-2_leitzk.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743067820/503-3_lxe0y5.jpg"]
+  },
+  {
+    "skuCode": "HM2025504",
+    "title": "Prestige Gasket 3,4 & 5.5 Ltr",
+    "mrp": 80,
+    "sellingPrice": 80,
+    "discount": "NA",
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743067961/504-1_j7yufb.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743067964/504-2_yxu74o.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743067966/504-3_uws56u.jpg"]
+  },
+  {
+    "skuCode": "HM2025505",
+    "title": "Pigeon 2 & 3 Ltr",
+    "mrp": 70,
+    "sellingPrice": 70,
+    "discount": "NA",
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743068274/505-1_shrt6g.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743068277/505-2_obnvfn.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743068281/505-3_ldckbc.jpg"]
+  },
+  {
+    "skuCode": "HM2025506",
+    "title": "Pigeon 3.5,5 & 7.5 Ltr",
+    "mrp": 80,
+    "sellingPrice": 80,
+    "discount": "NA",
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743065857/506-1_gdazt5.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743065859/506-2_oepc3t.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743065861/506-3_d15qzg.jpg"]
+  },
+  {
+    "skuCode": "HM2025507",
+    "title": "Pigeon 6,7.5,10 & 12 Ltr",
+    "mrp": 90,
+    "sellingPrice": 90,
+    "discount": "NA",
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743065702/507-1_gmusve.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743065703/507-2_dhfqde.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743065706/507-3_kldsid.jpg"]
+  },
+  {
+    "skuCode": "HM2025508",
+    "title": "Prestige Gasket 2.5,3 & 3.5 Ltr",
+    "mrp": 80,
+    "sellingPrice": 80,
+    "discount": "NA",
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743068139/508-1_yx6uzm.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743068141/508-2_y3wfyj.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743068143/508-3_dzttkt.jpg"]
+  },
+  {
+    "skuCode": "HM2025509",
+    "title": "Pigeon Electric Rice Cooker",
+    "mrp": 3845,
+    "sellingPrice": 2499,
+    "discount": "NA",
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743071406/509-1_sukyuv.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743071408/509-2_zmakbu.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743071412/509-3_exkzkr.jpg"]
+  },
+  {
+    "skuCode": "HM2025515",
+    "title": "Kettle Coffee Maker 2 No",
+    "mrp": 1020,
+    "sellingPrice": 663,
+    "discount": "NA",
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743066158/515-2_zb302u.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743066158/515-2_zb302u.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743066160/515-3_lboai6.jpg"]
+  },
+  {
+    "skuCode": "HM2025516",
+    "title": "SS Chopping Board 3 no",
+    "mrp": 860,
+    "sellingPrice": 559,
+    "discount": "NA",
+    "category": "Kitchen Tools",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743148006/516-1_kzbvds.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743148006/516-2_rn4cor.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743148007/516-3_cno0xq.jpg"]
+  },
+  {
+    "skuCode": "HM2025462",
+    "title": "Laser Vati 10cm",
+    "mrp": 57,
+    "sellingPrice": 38,
+    "discount": 35,
+    "category": "Cups And Bowls",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743080260/462-1_c1kmtl.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743080264/462-2_qgexsh.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743080268/462-3_xmgya1.jpg"]
+  },
+  {
+    "skuCode": "HM2025451",
+    "title": "Water Jug SS 1 Litre",
+    "mrp": 180,
+    "sellingPrice": 153,
+    "discount": 15,
+    "category": "Flasks And Jugs",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743063004/451-1_s8luh5.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743063005/451-2_vtkuqh.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743063006/451-3_yjtvku.jpg"]
+  },
+  {
+    "skuCode": "HM2025496",
+    "title": "Aura  750",
+    "mrp": 1015,
+    "sellingPrice": 913,
+    "discount": 10,
+    "category": "Flasks And Jugs",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743065116/496-1_rivwsu.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743065117/496-2_ujzuzc.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743065204/496-3_igjjtd.jpg"]
+  },
+  {
+    "skuCode": "HM2025497",
+    "title": "Aura  1000",
+    "mrp": 1165,
+    "sellingPrice": 1048,
+    "discount": 10,
+    "category": "Flasks And Jugs",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743065219/497-1_ehhbkb.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743065221/497-2_cep5wn.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743065222/497-3_n11r6o.jpg"]
+  },
+  {
+    "skuCode": "HM2025498",
+    "title": "Glassy Flask 350",
+    "mrp": 780,
+    "sellingPrice": 702,
+    "discount": 10,
+    "category": "Flasks And Jugs",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062386/498-1_i57vsu.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062386/498-2_u6qlwq.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062387/498-3_aejihc.jpg"]
+  },
+  {
+    "skuCode": "HM2025499",
+    "title": "Glassy Flask 500",
+    "mrp": 840,
+    "sellingPrice": 756,
+    "discount": 10,
+    "category": "Flasks And Jugs",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062504/499-1_olelvg.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062505/499-2_ni8cqf.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062506/499-3_uqx4gl.jpg"]
+  },
+  {
+    "skuCode": "HM2025500",
+    "title": "Glassy Flask 750",
+    "mrp": 1120,
+    "sellingPrice": 1008,
+    "discount": 10,
+    "category": "Flasks And Jugs",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062695/500-1_yaingd.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062695/500-2_esmwyv.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062697/500-3_nketz9.jpg"]
+  },
+  {
+    "skuCode": "HM2025501",
+    "title": "Glassy Flask 1000",
+    "mrp": 1260,
+    "sellingPrice": 1134,
+    "discount": 10,
+    "category": "Flasks And Jugs",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062899/501-1_aqlld8.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062900/501-2_ocgczc.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062901/501-3_zwgcvo.jpg"]
+  },
+  {
+    "skuCode": "HM2025492",
+    "title": "Matrix 2500",
+    "mrp": 1035,
+    "sellingPrice": 931,
+    "discount": 10,
+    "category": "Hot Box",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743069291/492-1_lpffio.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743069298/492-2_n87e9c.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743069300/492-3_qptuqx.jpg"]
+  },
+  {
+    "skuCode": "HM2025493",
+    "title": "Galaxia 2500",
+    "mrp": 1185,
+    "sellingPrice": 1066,
+    "discount": 10,
+    "category": "Hot Box",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743070132/493-1_edjrmw.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743070135/493-2_mczcpn.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743070138/493-3_heipfj.jpg"]
+  },
+  {
+    "skuCode": "HM2025495",
+    "title": "Marvel 1500",
+    "mrp": 500,
+    "sellingPrice": 450,
+    "discount": 10,
+    "category": "Hot Box",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743069138/495-1_smnnyn.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743069140/495-2_gq9yaf.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743069142/495-3_ehyjhx.jpg"]
+  },
+  {
+    "skuCode": "HM2025512",
+    "title": "Galaxia 1500",
+    "mrp": 1185,
+    "sellingPrice": 1066,
+    "discount": 10,
+    "category": "Hot Box",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743069443/512-1_niirlg.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743069446/512-2_powjhc.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743069448/512-3_myf1y4.jpg"]
+  },
+  {
+    "skuCode": "HM2025486",
+    "title": "Steel Snack Large",
+    "mrp": 790,
+    "sellingPrice": 711,
+    "discount": 10,
+    "category": "Lunch Box",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743063210/486-1_nx94qn.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743063211/486-2_u5oyyp.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743063213/486-3_kpokfz.jpg"]
+  },
+  {
+    "skuCode": "HM2025487",
+    "title": "Food Fun Big",
+    "mrp": 240,
+    "sellingPrice": 216,
+    "discount": 10,
+    "category": "Lunch Box",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743065353/487-1_lkawxi.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743065355/487-2_l63hs2.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743065357/487-3_ngtnom.jpg"]
+  },
+  {
+    "skuCode": "HM2025488",
+    "title": "Steel Treat 3",
+    "mrp": 535,
+    "sellingPrice": 481,
+    "discount": 10,
+    "category": "Lunch Box",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743064599/488-1_ttjv48.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743064600/488-2_asauh9.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743064602/488-3_gzbcmz.jpg"]
+  },
+  {
+    "skuCode": "HM2025489",
+    "title": "Econa 2",
+    "mrp": 610,
+    "sellingPrice": 549,
+    "discount": 10,
+    "category": "Lunch Box",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743064769/489-1_ckiv5w.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743064771/489-2_cgdmxj.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743064772/489-3_lovcpp.jpg"]
+  },
+  {
+    "skuCode": "HM2025490",
+    "title": "Savor Lunch",
+    "mrp": 1350,
+    "sellingPrice": 1215,
+    "discount": 10,
+    "category": "Lunch Box",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743069889/490-1_yuf3no.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743069891/490-2_ywnufp.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743069894/490-3_zjzsnw.jpg"]
+  },
+  {
+    "skuCode": "HM2025491",
+    "title": "Flatmate Senior",
+    "mrp": 765,
+    "sellingPrice": 688,
+    "discount": 10,
+    "category": "Lunch Box",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062256/491-1_njvaff.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062257/491-2_ffzyqd.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743062257/491-3_m1pgio.jpg"]
+  },
+  {
+    "skuCode": "HM2025494",
+    "title": "Corporate Lunch",
+    "mrp": 660,
+    "sellingPrice": 594,
+    "discount": 10,
+    "category": "Lunch Box",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743063391/494-1_edbkih.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743063392/494-2_rwa2qe.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743063393/494-3_lkyuyd.jpg"]
+  },
+  {
+    "skuCode": "HM2025510",
+    "title": "Econa 3",
+    "mrp": 770,
+    "sellingPrice": 693,
+    "discount": 10,
+    "category": "Lunch Box",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743064318/510-1_jirzqy.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743064320/510-2_zbykyq.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743064321/510-3_lxalss.jpg"]
+  },
+  {
+    "skuCode": "HM2025513",
+    "title": "Jerry Lunch Box",
+    "mrp": 699,
+    "sellingPrice": 455,
+    "discount": 10,
+    "category": "Lunch Box",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743064123/513-2_a8kjhq.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743064125/513-3_wdksqu.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743064122/513-1_rt9un5.jpg"]
+  },
+  {
+    "skuCode": "HM2025452",
+    "title": "Biriyani Pot 4L",
+    "mrp": 1351,
+    "sellingPrice": 810,
+    "discount": 40,
+    "category": "Non Stick",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743084275/452-1_izelcf.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743084280/452-2_cyavbu.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743084287/452-3_bwx59d.jpg"]
+  },
+  {
+    "skuCode": "HM2025511",
+    "title": "pigeon 3 in 1 Waffle Maker",
+    "mrp": 3595,
+    "sellingPrice": 2157,
+    "discount": 40,
+    "category": "Non Stick",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743070510/511-1_vrx3dn.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743070512/511-2_trv9lx.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743070515/511-3_fjkffq.jpg"]
+  },
+  {
+    "skuCode": "HM2025514",
+    "title": "Brass Bowl 13cm",
+    "mrp": 202,
+    "sellingPrice": 131,
+    "discount": 35,
+    "category": "Pooja Accessories",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743078461/514-1_ubrra8.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743078464/514-2_bkrokg.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743078469/514-3_jfjcgf.jpg"]
+  },
+  {
+    "skuCode": "HM2025485",
+    "title": "Brass Coffee Glass",
+    "mrp": 190,
+    "sellingPrice": 123,
+    "discount": 35,
+    "category": "Steel Glass",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743078632/485-1_hphp2h.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743078636/485-2_ssjqaf.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743078640/485-3_lm9vfk.jpg"]
+  },
+  {
+    "skuCode": "HM2025458",
+    "title": "Chiba Cover 17 Size",
+    "mrp": 170,
+    "sellingPrice": 110,
+    "discount": 35,
+    "category": "Steel Plates",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081204/458-1_zeuiq2.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081209/458-2_gu7xro.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081214/458-3_mliyis.jpg"]
+  },
+  {
+    "skuCode": "HM2025459",
+    "title": "Chiba Cover 18 Size",
+    "mrp": 190,
+    "sellingPrice": 123,
+    "discount": 35,
+    "category": "Steel Plates",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081331/459-1_txznmk.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081336/459-2_mxyc6y.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081341/459-3_lnxrzu.jpg"]
+  },
+  {
+    "skuCode": "HM2025460",
+    "title": "Chiba Cover 19 Size",
+    "mrp": 210,
+    "sellingPrice": 136,
+    "discount": 35,
+    "category": "Steel Plates",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081465/460-1_i124us.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081469/460-2_goujpk.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081474/460-3_hjeosl.jpg"]
+  },
+  {
+    "skuCode": "HM2025461",
+    "title": "Chiba Cover 20 Size",
+    "mrp": 230,
+    "sellingPrice": 149,
+    "discount": 35,
+    "category": "Steel Plates",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081602/461-1_jqzbwx.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081607/461-2_lvpfyi.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081613/461-3_mljuh7.jpg"]
+  },
+  {
+    "skuCode": "HM2025463",
+    "title": "Laser Tiffin Plate 12 Size",
+    "mrp": 200,
+    "sellingPrice": 130,
+    "discount": 35,
+    "category": "Steel Plates",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743084415/463-1_mrnfzu.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743084421/463-2_l33lua.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743084426/463-3_vrerfh.jpg"]
+  },
+  {
+    "skuCode": "HM2025475",
+    "title": "Alu Chiba Cover 20cm",
+    "mrp": 92,
+    "sellingPrice": 78,
+    "discount": 15,
+    "category": "Steel Plates",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743146964/475-1_reoipd.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743146965/475-2_ikzpto.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743146965/475-3_m02acw.jpg"]
+  },
+  {
+    "skuCode": "HM2025476",
+    "title": "Alu Chiba Cover 22cm",
+    "mrp": 96,
+    "sellingPrice": 81,
+    "discount": 15,
+    "category": "Steel Plates",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147106/476-1_pksom6.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147107/476-2_c8yi2w.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147107/476-3_dxziqg.jpg"]
+  },
+  {
+    "skuCode": "HM2025477",
+    "title": "Alu Chiba Cover 23cm",
+    "mrp": 104,
+    "sellingPrice": 88,
+    "discount": 15,
+    "category": "Steel Plates",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147250/477-1_hekoil.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147251/477-2_andp5z.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147251/477-3_bpt1bp.jpg"]
+  },
+  {
+    "skuCode": "HM2025478",
+    "title": "Alu Chiba Cover 24cm",
+    "mrp": 110,
+    "sellingPrice": 93,
+    "discount": 15,
+    "category": "Steel Plates",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147390/478-1_msba0r.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147391/478-2_khfbqs.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147391/478-3_mbnbtl.jpg"]
+  },
+  {
+    "skuCode": "HM2025479",
+    "title": "Alu Chiba Cover 25cm",
+    "mrp": 152,
+    "sellingPrice": 129,
+    "discount": 15,
+    "category": "Steel Plates",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147549/479-1_uklqt7.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147550/479-2_ng9jvh.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147550/479-3_sz79tx.jpg"]
+  },
+  {
+    "skuCode": "HM2025480",
+    "title": "Alu Chiba Cover 28cm",
+    "mrp": 174,
+    "sellingPrice": 147,
+    "discount": 15,
+    "category": "Steel Plates",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147709/480-1_ka1elk.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147710/480-2_udvux5.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147710/480-3_fj33qc.jpg"]
+  },
+  {
+    "skuCode": "HM2025481",
+    "title": "Alu Chiba Cover 29cm",
+    "mrp": 196,
+    "sellingPrice": 166,
+    "discount": 15,
+    "category": "Steel Plates",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147862/481-1_mg9q5i.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147862/481-2_nnp3gu.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743147863/481-3_hcgvkc.jpg"]
+  },
+  {
+    "skuCode": "HM2025453",
+    "title": "OIL Pressing Can 1 Litre",
+    "mrp": 400,
+    "sellingPrice": 340,
+    "discount": 15,
+    "category": "Storage Containers",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743084857/453-1_wg1t2h.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743084861/453-2_v4ubyv.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743084867/453-3_ksxqtp.jpg"]
+  },
+  {
+    "skuCode": "HM2025454",
+    "title": "Hammered Tope 15 Size",
+    "mrp": 670,
+    "sellingPrice": 435,
+    "discount": 35,
+    "category": "Topes And Handis",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081763/454-1_urfnd3.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081768/454-2_osiyir.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081773/454-3_iw6wtk.jpg"]
+  },
+  {
+    "skuCode": "HM2025455",
+    "title": "Hammered Tope 16 Size",
+    "mrp": 700,
+    "sellingPrice": 455,
+    "discount": 35,
+    "category": "Topes And Handis",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081927/455-1_uellju.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081933/455-2_p1ioqh.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743081938/455-3_dweju0.jpg"]
+  },
+  {
+    "skuCode": "HM2025456",
+    "title": "Hammered Tope 17 Size",
+    "mrp": 850,
+    "sellingPrice": 552,
+    "discount": 35,
+    "category": "Topes And Handis",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743082148/456-1_jsia8o.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743082153/456-2_ddtvnf.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743082358/456-3_bbaohi.jpg"]
+  },
+  {
+    "skuCode": "HM2025457",
+    "title": "Hammered Tope 18 Size",
+    "mrp": 910,
+    "sellingPrice": 591,
+    "discount": 35,
+    "category": "Topes And Handis",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743084121/457-1_q4lek7.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743084125/457-2_jtgz4e.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743084131/457-3_crm2vv.jpg"]
+  },
+  {
+    "skuCode": "HM2025468",
+    "title": "Aluminium Tope 20cm",
+    "mrp": 214,
+    "sellingPrice": 181,
+    "discount": 15,
+    "category": "Topes And Handis",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743072601/468-1_uwebip.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743072604/468-2_lcdnqz.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743072608/468-3_sjuoyl.jpg"]
+  },
+  {
+    "skuCode": "HM2025469",
+    "title": "Aluminium Tope 22cm",
+    "mrp": 248,
+    "sellingPrice": 210,
+    "discount": 15,
+    "category": "Topes And Handis",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743076734/469-1_yzpsqk.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743076736/469-2_rlmrie.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743076740/469-3_njfvud.jpg"]
+  },
+  {
+    "skuCode": "HM2025470",
+    "title": "Aluminium Tope 23cm",
+    "mrp": 292,
+    "sellingPrice": 248,
+    "discount": 15,
+    "category": "Topes And Handis",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743076881/470-1_eara0a.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743076885/470-2_unwpkm.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743076889/470-3_m2cxq9.jpg"]
+  },
+  {
+    "skuCode": "HM2025471",
+    "title": "Aluminium Tope 24cm",
+    "mrp": 338,
+    "sellingPrice": 287,
+    "discount": 15,
+    "category": "Topes And Handis",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743077024/471-1_cmvl4l.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743077028/471-2_z6m7cm.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743077034/471-3_xuco7o.jpg"]
+  },
+  {
+    "skuCode": "HM2025472",
+    "title": "Aluminium Tope 25cm",
+    "mrp": 370,
+    "sellingPrice": 314,
+    "discount": 15,
+    "category": "Topes And Handis",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743077167/472-1_riuwlm.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743077170/472-2_efik2v.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743077174/472-3_nptqax.jpg"]
+  },
+  {
+    "skuCode": "HM2025473",
+    "title": "Aluminium Tope 28cm",
+    "mrp": 410,
+    "sellingPrice": 348,
+    "discount": 15,
+    "category": "Topes And Handis",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743077726/473-1_oeayr5.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743077738/473-2_jj4jy4.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743077743/473-3_jqxrdi.jpg"]
+  },
+  {
+    "skuCode": "HM2025474",
+    "title": "Aluminium Tope 29cm",
+    "mrp": 450,
+    "sellingPrice": 382,
+    "discount": 15,
+    "category": "Topes And Handis",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743077886/474-1_uxluaj.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743077890/474-2_tb5nw5.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743077894/474-3_xlwkzx.jpg"]
+  },
+  {
+    "skuCode": "HM2025482",
+    "title": "Alu Tapli 18cm",
+    "mrp": 254,
+    "sellingPrice": 215,
+    "discount": 15,
+    "category": "Topes And Handis",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743072244/482-1_xqbeqz.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743072247/482-2_pf8znz.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743072251/482-3_tl6udd.jpg"]
+  },
+  {
+    "skuCode": "HM2025483",
+    "title": "Alu Tapli 21cm",
+    "mrp": 340,
+    "sellingPrice": 289,
+    "discount": 15,
+    "category": "Topes And Handis",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743072390/483-1_frr1ku.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743072392/483-2_pdgz9o.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743072396/483-3_wmx5hj.jpg"]
+  },
+  {
+    "skuCode": "HM2025484",
+    "title": "Alu Tapli 27cm",
+    "mrp": 530,
+    "sellingPrice": 450,
+    "discount": 15,
+    "category": "Topes And Handis",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743072018/484-1_lovp2f.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743072020/484-2_jfth0g.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743072024/484-3_llk34p.jpg"]
+  },
+  {
+    "skuCode": "HM2025517",
+    "title": "Triply Kadai 24cm",
+    "mrp": 1599,
+    "sellingPrice": 799,
+    "discount": 50,
+    "category": "Triply Cookware",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743148721/517-1_toimm7.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743148722/517-2_gxtn6p.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743148722/517-3_skuuqg.jpg"]
+  },
+  {
+    "skuCode": "HM2025518",
+    "title": "Triply Saucepan 20cm",
+    "mrp": 1499,
+    "sellingPrice": 749,
+    "discount": 50,
+    "category": "Triply Cookware",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743149132/518-1_ltefe9.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743149133/518-2_ifpxau.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743149134/518-3_wr1naz.jpg"]
+  },
+  {
+    "skuCode": "HM2025519",
+    "title": "Triply Cook Top 20cm",
+    "mrp": 1599,
+    "sellingPrice": 799,
+    "discount": 50,
+    "category": "Triply Cookware",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743149570/519-1_frsoib.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743149571/519-2_xv7kgr.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743149572/519-3_x5bdjc.jpg"]
+  },
+  {
+    "skuCode": "HM2025520",
+    "title": "Triply Tope 20cm",
+    "mrp": 999,
+    "sellingPrice": 499,
+    "discount": 50,
+    "category": "Triply Cookware",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743148872/520-1_eigdjl.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743148873/520-2_kp9b5u.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743148874/520-3_midaan.jpg"]
+  },
+  {
+    "skuCode": "HM2025521",
+    "title": "Honeycomb Kadai 26cm",
+    "mrp": 2499,
+    "sellingPrice": 1249,
+    "discount": 50,
+    "category": "Triply Cookware",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743149699/521-1_tlvltm.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743149701/521-2_leyars.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743149702/521-3_qpghqc.jpg"]
+  },
+  {
+    "skuCode": "HM2025522",
+    "title": "Honeycomb Frypan 26cm",
+    "mrp": 1999,
+    "sellingPrice": 999,
+    "discount": 50,
+    "category": "Triply Cookware",
+    "imageUrls" : ["https://res.cloudinary.com/dvtqp8tex/image/upload/v1743149425/522-1_d1baov.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743149426/522-2_ezrcgf.jpg","https://res.cloudinary.com/dvtqp8tex/image/upload/v1743149427/522-3_kp3qir.jpg"]
   }
 ]
